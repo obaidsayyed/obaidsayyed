@@ -1,5 +1,6 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+# 💫 About Me: 
+Hi, I am Obaid Sayyed a Data Science Under Graduate who believes in building systems that solves and not just work
+🔭 I’m currently working on something secret and interesting<br>👯 I’m looking to collaborate on any project which includes data, model traning and machine learning <br>🌱 I’m currently learning more about LLMs<br>
 
 
 ## 🌐 Socials:

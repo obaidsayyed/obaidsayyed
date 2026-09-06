@@ -1,5 +1,5 @@
 # 💫 About Me: 
-Hi, I am Obaid Sayyed a Data Science Under Graduate who believes in building systems that solves and not just work
+Hi, I am Obaid Sayyed a Data Science Under Graduate who believes in building systems that solves and not just work<br>
 🔭 I’m currently working on something secret and interesting<br>👯 I’m looking to collaborate on any project which includes data, model traning and machine learning <br>🌱 I’m currently learning more about LLMs<br>
 
 

@@ -11,7 +11,7 @@
 <tr>
 <td width="180" align="center" valign="middle">
 
-<img src="./assets/profile.jpg" width="150" alt="Obaid Sayyed"/>
+<img src="./assests/profile.jpg" width="150" alt="Obaid Sayyed"/>
 
 </td>
 
